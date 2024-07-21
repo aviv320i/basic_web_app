@@ -2,7 +2,7 @@
   "$schema": "https://github.com/Azure/data-api-builder/releases/download/v0.9.7/dab.draft.schema.json",
   "data-source": {
     "database-type": "postgresql",
-    "connection-string": "",
+    "connection-string": "Host=10.181.147.8;Port=5432;Database=bookshelf;User ID=postgres;Password=password1!;",
     "options": {}
   },
   "runtime": {
